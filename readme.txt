@@ -1,0 +1,1 @@
+It generates random 8-characters password, which can also be copied to clipboard.
